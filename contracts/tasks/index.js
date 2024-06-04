@@ -1,0 +1,8 @@
+exports.addReferral = require("./addReferral")
+exports.claimRewards = require("./claimRewards")
+exports.createCampaign = require("./createCampaign")
+exports.reachMilestone = require("./reachMilestone")
+exports.failBotCheck = require("./failBotCheck")
+exports.deploy = require("./deploy")
+exports.verify = require("./verify")
+exports.upload = require("./upload")
